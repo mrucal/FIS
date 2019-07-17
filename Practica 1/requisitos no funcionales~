@@ -1,0 +1,13 @@
+- Fiabilidad: Realizar copias de seguridad periodicamente para evitar perdidas.
+
+- Soporte: El sistema debe visualizarse y funcionar correctamente en cualquier navegador.
+
+- Rendimiento: El sistema no debe tardar mas de 10 segundos en mostrar los resultados de una busqueda.
+
+- Seguridad: El acceso al sistema debe estar restringido por el uso de claves asignadas a cada uno de los usuarios según su tipo. Los reporteros podran introducir nueva información en el sistema. Los usuarios no registrados solo podran acceder a la información (sobre películas, estrenos,actores,etc), los usuarios registrados además de acceder a la información podran votar sus películas y actores favoritos y realizar comentarios, entre otras funciones.
+
+- Concurrencia: Varios usuarios podrán acceder a la misma información simultáneamente.
+
+- Implementación: Se utilizará el lenguaje Java.
+
+- Usabilidad: El sistema debe ser intuitivo y fácil de aprender por los usuarios.
